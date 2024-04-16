@@ -1,0 +1,11 @@
+@media (max-width: 768px) {
+  .WeatherContainer {
+    padding: 10px;
+  }
+}
+
+@media (max-width: 576px) {
+  .WeatherContainer {
+    padding: 5px;
+  }
+}
